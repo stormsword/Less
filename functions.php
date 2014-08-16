@@ -35,3 +35,5 @@ function less_scripts()  {
   
 }
 add_action( 'wp_enqueue_scripts', 'less_scripts' );
+
+remove_filter('template_redirect', 'redirect_canonical');
