@@ -24,12 +24,8 @@
 <header id="masthead" class="site-header" role="banner">
 	<div class="container">
 		
-		<div class="gravatar">
-			<?php 
-				// grab admin email and their photo
-				$admin_email = get_option('admin_email');
-				echo get_avatar( $admin_email, 100 ); 
-			?>
+		<div class="logo">
+			<!-- Display stormsword logo -->
 		</div><!--/ author -->
 		
 		<div id="brand">
