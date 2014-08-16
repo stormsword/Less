@@ -469,6 +469,7 @@ header {
   margin: 20px auto;
 }
 header .logo {
+  background: url('images/logo.png') no-repeat right bottom;
   overflow: hidden;
   width: 100px;
   height: 100px;
