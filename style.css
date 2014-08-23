@@ -453,7 +453,7 @@ header {
 }
 header .logo {
   overflow: hidden;
-  background-image: url('images/logo.png');
+  background: url('images/logo.png') no-repeat right bottom;
   width: 100px;
   height: 100px;
   -moz-border-radius: 50%;
