@@ -552,7 +552,7 @@ article .the-content img {
   width: 100%;
   height: auto;
 }
-article .the-content img .wp-smiley {
+article .the-content .wp-smiley {
   width: 20px;
 }
 article .meta {
